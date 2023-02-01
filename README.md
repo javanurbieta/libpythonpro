@@ -21,3 +21,4 @@ Tópicos a serem abordados:
 1. Git
 2. Vitualenv
 3. Pip
+4. 
